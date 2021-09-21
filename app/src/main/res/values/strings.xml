@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First Submission</string>
+    <string name="followers">followers</string>
+    <string name="repositories">repositories</string>
+    <string name="followings">followings</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="company">company</string>
+    <string name="location">Location</string>
+</resources>

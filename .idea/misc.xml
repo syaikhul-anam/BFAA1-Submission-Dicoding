@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25052083333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/bg_search.xml" value="0.26614583333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/bg_tab_selected.xml" value="0.26614583333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/ic_arrow_right.xml" value="0.26614583333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/ic_baseline_brightness_1_24.xml" value="0.2520833333333333" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/ic_clear.xml" value="0.26614583333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/ic_favorite.xml" value="0.26614583333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25052083333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/ic_search.xml" value="0.26614583333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/ic_unfavorite.xml" value="0.26614583333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/ic_user.xml" value="0.26614583333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/layout_tab_selector.xml" value="0.26614583333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/drawable/line.xml" value="0.25052083333333336" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/layout/activity_main.xml" value="0.16799999999999998" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/layout/activity_splash_screen.xml" value="0.171875" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/layout/fragment_detail.xml" value="0.25" />
+        <entry key="..\:/ABANG-UNIDA/INFORMATIC/kuliah/Code_On/APPS_PROGRAMING/Fundamental_Dicoding/SUBMISSION_DIC/Fisrt_Submission/app/src/main/res/layout/item_list.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
